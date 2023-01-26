@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "producthuntscraperbot",
+  "private_key_id": "4ac04cf5d1520be4810d50f2e25e083e8c2b23ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8dnEeks2FEy3x\n+lYcCSHKlpNBl1yUJDGvmMdd5ddCLsOjzUHnVygIgSDrhv2jMzgkcZ2pASL2Dvkc\n/gBvI5bK0NElUJdWH/Oo68PDwP43MXAYx5NON5yNmRLHSG0ax9NQz3+4Q3PhR07t\nAhplMrQLAnfy9hQyTx59or+TfyaA7eYuQq1KToGw0FAEWlUtxQXZAG9dvNns7b/T\nABODbRMh/N/oZm1bK+gw9jd0fJAAdKe4wfk0BMuurTlJSVoUMp5MZ2c4ykMULMsS\n4JU9HU8UJY8Zin1gxLqcF22Bl85LwhfnId2FSrrh2LRWIG9Nnxb9c5ChUxtZoI8t\n7+j5aF3hAgMBAAECggEADUYqYYTlhOH88nY3anIaNzKz3ILUunpyJXQVVr/BkZ/J\nl9f1NF4nK7Isp2oyozQQWEDIYgb6d2pGkYwya6GOFWrv0DkE78QAXX19pGQLg8ev\npY8pCPFRzYdikza+uIwqjh6PWGMn3k4vePIU+dvAYqYh3LMIaSK5ew/jfngONjZs\nMOxJ/OIXuoxiDuS2QS+pWmajwjpGsSdxl5LbATdXZ7cxSdofmC+TMXTUeJlVuv24\naNuhLIz1/E2De3YgXZW2Ec8DFy3YI2slmCeU8DkztIuNzHsukjb2tzfV4W4uHVcg\nPiu2vQq2UGhmb75AceCnnjN6iI2m5w9UzQi7OZhwoQKBgQD62D2vOqu396ivY9NM\nBnXAw5DTjj6R2XJtT3lUbgSJw28lWsT8xNc9ggtbq641DAxxMrS4ca4Iil189Fi3\n6JfJ7xgBsP9gZAAml3A9GpYjhdKwS+QoZMSmMtAVNXgDC0jQhmz7hw5RmBIOT4vO\n78E88X/fjJtnFslBQ+onwO/hkwKBgQDAVf4tBok+JvU8nmCYIhnjXGya4ASp8BdX\n5HHAMFekfFuJsO9yO94EsSJuyHvsrwCl9vb04X/iIQL98QYpSP50HSOlE39/rcYY\n/ELOm09+NEyHZcaNCB3BGfD9RiGYCLlNS6JrfX1x/Rd2GdecXc49fj+E7v644VSm\naCmtkeO7OwKBgC5qmyd0pNfa5QTnZO75dwqfZYowFRXp9cmSXjIoVYCkgEmaPT9E\nsUt5Z96jqw232AmOR3Cl4H1GFTyM/mmxiXzdWETf2rGcb4a0mRlFdSjHl4/1yxdK\nZjUWy/hQt49gpC2p4jq86AJjMFwjjgxRwyEi0vWr0AnIZp9EEO0gP4MvAoGAH3sz\n0lzag/DOfTCTMPOL9zn+kM8QFFy3BWzf7Yw8HDE6rmvmlXUVHwF7WFS6bAAtA/1L\naMOsMfAjVDtqPcGz3H+UgQWS/ewMm7RWnwiu10JqMFNJT3Y/oIbFej9Lal4rLmqt\n2Bg/OzQo7ezG7NIx2sDaVsDjspE3UNGF2OIjO1cCgYEAxKY14WerfDR8GTemvBmr\ng+QDF/cLACX2siE8gf0vXv1jqHv0A2B1Zxiv4bvoHJFWKf4vMSPLUc/mg/Gn+Hp3\n5eE864j1uIL7epo8EaE/EQNkIFEgL3Z+/KzstKNXwCkyj2nKD7SNELUejwYo8ut0\nZ8+he5ivLF35876BeLLH4FQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fatihguzel@producthuntscraperbot.iam.gserviceaccount.com",
+  "client_id": "113794857195653334128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fatihguzel%40producthuntscraperbot.iam.gserviceaccount.com"
+}
